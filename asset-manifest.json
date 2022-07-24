@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/simple-react-blog/static/css/main.b4f0ab97.css",
-    "main.js": "/simple-react-blog/static/js/main.be303bef.js",
-    "index.html": "/simple-react-blog/index.html",
-    "main.b4f0ab97.css.map": "/simple-react-blog/static/css/main.b4f0ab97.css.map",
-    "main.be303bef.js.map": "/simple-react-blog/static/js/main.be303bef.js.map"
+    "main.css": "/study-simple-blog-react/static/css/main.b4f0ab97.css",
+    "main.js": "/study-simple-blog-react/static/js/main.be303bef.js",
+    "index.html": "/study-simple-blog-react/index.html",
+    "main.b4f0ab97.css.map": "/study-simple-blog-react/static/css/main.b4f0ab97.css.map",
+    "main.be303bef.js.map": "/study-simple-blog-react/static/js/main.be303bef.js.map"
   },
   "entrypoints": [
     "static/css/main.b4f0ab97.css",
