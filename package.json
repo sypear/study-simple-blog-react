@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sypear.github.io/simple-react-blog",
-  "name": "simple-react-blog",
+  "homepage": "https://sypear.github.io/study-simple-blog-react",
+  "name": "study-simple-blog-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
