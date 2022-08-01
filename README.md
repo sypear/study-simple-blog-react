@@ -16,4 +16,5 @@ ___
   * UI의 현재 상태를 state로 저장하여 동적인 UI 만들기
   * Component 만들어보기
   * props를 이용하여 부모 컴포넌트의 state 사용해보기
-* 데모 페이지 : https://sypear.github.io/study-simple-blog-react/
+* 데모 페이지
+  * https://sypear.github.io/study-simple-blog-react/ (반응형 디자인 미적용)
